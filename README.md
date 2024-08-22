@@ -4,6 +4,11 @@
 
 EnhancedTextWriterCOM is a comprehensive example project that demonstrates how to create a COM object in C#, register it for use in VBA (Visual Basic for Applications), and showcase its functionality through early and late binding techniques. This project is perfect for developers looking to extend the capabilities of Microsoft Office applications, such as Word or Excel, by integrating .NET functionalities.
 
+For a detailed step-by-step tutorial on creating COM objects in .NET and using them in VBA, please visit the following links:
+
+- [Creating COM Objects in .NET](https://scottminer.netlify.app/post/creating-com-objects-in-dotnet/)
+- [Creating COM Objects in .NET](https://scottminer.rbind.io/post/creating-com-objects-in-dotnet/)
+
 ## Project Structure
 
 The repository contains the following key components:
