@@ -7,7 +7,6 @@ EnhancedTextWriterCOM is a comprehensive example project that demonstrates how t
 For a detailed step-by-step tutorial on creating COM objects in .NET and using them in VBA, please visit the following links:
 
 - [Creating COM Objects in .NET](https://scottminer.netlify.app/post/creating-com-objects-in-dotnet/)
-- [Creating COM Objects in .NET](https://scottminer.rbind.io/post/creating-com-objects-in-dotnet/)
 
 ## Project Structure
 
