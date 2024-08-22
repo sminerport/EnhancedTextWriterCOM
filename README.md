@@ -38,7 +38,7 @@ The repository contains the following key components:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/EnhancedTextWriterCOM.git
+   git clone https://github.com/sminerport/EnhancedTextWriterCOM.git
    ```
 2. **Build the C# Project**:
    - Open the `EnhancedTextWriterLib` project in Visual Studio.
